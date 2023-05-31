@@ -6,3 +6,5 @@
 /CongressData/CongressData.csv
 /notebooks/data
 /notebooks/.ipynb_checkpoints
+/webscraping/__pycache__
+/webscraping/geckodriver.log
